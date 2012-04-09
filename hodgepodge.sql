@@ -1,3 +1,6 @@
+-- This is a raw dumping of functions that are hard coded to original use case, find generalized cleaned up (more or less) functions in pg_track.sql
+
+
 -- Function: askmltrack(geometry, timestamp with time zone)
 
 -- DROP FUNCTION askmltrack(geometry, timestamp with time zone);

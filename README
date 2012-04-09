@@ -1,0 +1,3 @@
+pg_tracks.sql provides a suite of functions for dealing with track type data
+hodgepodge.sql is simply here for reference as the hard-coded functions from the original database these functions were developed from and should not be considered ready to use
+
